@@ -1,7 +1,7 @@
 {
   "name": "himanshu-yadav-portfolio",
   "version": "0.1.0",
-  "homepage": "https://himanshuyadv.github.io/portfolio",
+
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
