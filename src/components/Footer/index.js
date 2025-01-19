@@ -89,6 +89,8 @@ function Footer() {
     <FooterContainer>
       <FooterWrapper>
         <Logo>Himanshu Yadav</Logo>
+        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shivam-pandey07" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shivam-pandey07?trk=profile-badge">Shivam Pandey</a></div>
+              
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
